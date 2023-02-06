@@ -12,6 +12,7 @@ body {
 
 SEction {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half_width {
@@ -41,4 +42,9 @@ SEction {
     color: wheat;
     font-weight: bold;
     margin-top: 10px;
+}
+
+.sec2_h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
