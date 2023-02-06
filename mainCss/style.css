@@ -3,8 +3,11 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
+
+
+/* hader/Dream section start */
 
 .orange_color {
     color: orange;
@@ -16,13 +19,18 @@ SEction {
 }
 
 .half_width {
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.half_width {
     width: 50%;
-    padding-left: 50px;
+    padding-left: 20px;
 }
 
 .half_width h1 {
     margin-top: 30px;
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .half_width h3 {
@@ -48,3 +56,51 @@ SEction {
     margin-top: 30px;
     margin-bottom: 20px;
 }
+
+
+/* heder/Dream section end */
+
+
+/* exprince section start */
+
+.exprince h2 {
+    margin-left: 20px;
+}
+
+.exp_P_sec {
+    margin-top: 80px;
+    display: flex;
+}
+
+.exp_p_2 {
+    width: 50%;
+    box-shadow: 10px 10px 40px;
+    margin-right: 50px;
+    padding: 20px;
+    border-left: 3px solid orange;
+}
+
+.exp_p_2 h2 {
+    margin-top: 40;
+    margin-bottom: 10px;
+}
+
+.exp_p_2 h2 {
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+
+/* exprince section end */
+
+
+/* footer section start */
+
+footer p {
+    text-align: center;
+    padding: 30px;
+    background-color: aqua;
+}
+
+
+/* footer section end */
